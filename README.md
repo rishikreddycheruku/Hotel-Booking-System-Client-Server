@@ -154,12 +154,6 @@ python view_bookings.py
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
 ## Acknowledgements
 
 - SQLite for lightweight database management.
